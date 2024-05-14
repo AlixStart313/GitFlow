@@ -1,3 +1,6 @@
-Segunfo feature 
+Segundo feature 
 
-Correccion del segundo Feature
+Apoyo del segundo Feature
+
+Correcion ortografica para el segundo feauture
+ 
